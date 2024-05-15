@@ -1,5 +1,5 @@
 # Go workspace file
 go.work
 
-fsar
+/fsar
 fsar.conf
